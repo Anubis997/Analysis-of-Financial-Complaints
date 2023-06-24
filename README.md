@@ -1,4 +1,4 @@
-# Financial Complaints KPI Dashboard
+#  Analysis of Financial Complaints-KPI Dashboard
 
 • The objective is to prioritize complaints first by analyzing them based on media, product, issue, and geography.
 • Percentage metrics were calculated for KPIs such as timely response, tickets in progress, and tickets resolved at no cost.
